@@ -14,7 +14,7 @@ This is a simple Java ATM (Automated Teller Machine) program that allows users t
 To run the ATM program, you need to have Java installed on your system. Follow these steps:
 
 1. Clone or download the repository to your local machine.
-2. Navigate to the directory containing the Java files (`ATM.java`).
+2. Navigate to the directory containing the Java files (`Atmmachine.java`).
 3. Compile the Java file using the following command:
     ```
     javac Atmmachine.java
